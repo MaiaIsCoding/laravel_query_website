@@ -8,8 +8,6 @@
 </ul>
 </br></br>
 <h3>Mais algumas observações:</h3>
-Adicione o PHP e o Composer as variaves de ambiente do sistema</br></br>
-
-Apos a instalação vá no diretorio do codigo e execute o comando: run composer install</br></br>
-
+Adicione o PHP e o Composer as variaves de ambiente do sistema</br>
+Apos a instalação vá no diretorio do codigo e execute o comando: run composer install</br>
 Lembre de modificar o .env com seu usuário, senha e schema
